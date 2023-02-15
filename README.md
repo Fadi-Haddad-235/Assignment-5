@@ -1,7 +1,7 @@
 <img src="https://sunseaz.com/images/python.jpg" alt="MarineGEO circle logo" style="height: 180px; width:460px;"/>
 
 ## Assignment Details:
-the assignment is to create an HTML/CSS page about a topic related to Computer Science.
+the assignment is to create an HTML/CSS page about a topic related to Computer Science.<br>
 Being my favorite programming language, I chose Python
 
 ## Languages Used :
