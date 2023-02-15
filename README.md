@@ -11,8 +11,6 @@ HTML and CSS.
 ## Author
 Fadi Haddad
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ## Creation date:
@@ -20,6 +18,9 @@ February, 14, 2023
 
 
 ## links and Resources I used :
-[W3Schools](https://www.w3schools.com/)
-[Programming with mosh : HTML Course on youtube](https://youtu.be/qz0aGYrrlhU)
+[W3Schools](https://www.w3schools.com/)<br>
+[Programming with mosh : HTML Course on youtube](https://youtu.be/qz0aGYrrlhU)<br>
 [Traversy Media : CSS Course on youtube](https://youtu.be/yfoY53QXEnI)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
